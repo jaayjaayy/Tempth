@@ -87,8 +87,6 @@ Integrates with and extends: Predictive Processing (Friston), Global Workspace T
 
 ## About
 
-Developed by Jenna Zinn in February–March 2026 during a snowstorm hyperfixation sprint. The insight preceded the formalism. The name "tempth" was generated in conversation with an AI responding to the structural demand of the theory for a word that didn't exist yet.
-
 Independent researcher. No institutional affiliation. The framework should be evaluated on its own merits.
 
 ---
@@ -101,4 +99,4 @@ https://creativecommons.org/licenses/by-nc/4.0/
 
 ---
 
-*"That axis has a name now. It is tempth."*
+
