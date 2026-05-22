@@ -87,7 +87,7 @@ Integrates with and extends: Predictive Processing (Friston), Global Workspace T
 
 ## About
 
-Independent researcher. No institutional affiliation. The framework should be evaluated on its own merits.
+Independent research. Framework developed outside traditional academic institutions. Evaluate on merit. 
 
 ---
 
